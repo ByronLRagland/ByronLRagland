@@ -3,7 +3,7 @@
 
 Passionate software engineer with a particular focus on object-oriented programming.
 
-- 🔭 I’m currently working on 
+<!-- - 🔭 I’m currently working on -->
 - 🌱 I’m currently learning anything I can get my hands on!
 - 👯 Always looking to collaborate
 - 📫 How to reach me: https://www.linkedin.com/in/byron-ragland-6444a21b9/
