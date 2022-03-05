@@ -1,15 +1,11 @@
-![header](https://user-images.githubusercontent.com/80864400/156867409-2487004f-9a50-42f8-b6cd-fa10d95c0b62.png)
+![Brown Workdesk Photocentric Professional Virtual Background (1)](https://user-images.githubusercontent.com/80864400/156868074-e4131f72-0c27-42cb-b900-9564367b4710.png)
+# Hi, I am Byron 👋
 
-### Hi, I am Byron 👋
+Passionate software engineer with a particular focus on object-oriented programming.
 
-<!--
-**ByronLRagland/ByronLRagland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning anything i can get my hands on!
+- 👯 Always looking to collaborate
+- 📫 How to reach me: https://www.linkedin.com/in/byron-ragland-6444a21b9/
+- ⚡ Fun fact: State champ in arm wrestling
 
