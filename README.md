@@ -3,8 +3,8 @@
 
 Passionate software engineer with a particular focus on object-oriented programming.
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning anything i can get my hands on!
+- 🔭 I’m currently working on learning and applying new frameworks to applications
+- 🌱 I’m currently learning anything I can get my hands on!
 - 👯 Always looking to collaborate
 - 📫 How to reach me: https://www.linkedin.com/in/byron-ragland-6444a21b9/
 - ⚡ Fun fact: State champ in arm wrestling
