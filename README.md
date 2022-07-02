@@ -7,5 +7,5 @@ Passionate software engineer with a particular focus on object-oriented programm
 - 🌱 I’m currently learning anything I can get my hands on!
 - 👯 Always looking to collaborate
 - 📫 How to reach me: https://www.linkedin.com/in/byron-ragland-6444a21b9/
-- ⚡ Fun fact: State champ in arm wrestling
+- ⚡ Fun fact: I watch the entire Game of Thrones series at least once a year
 
