@@ -3,9 +3,9 @@
 
 Passionate software engineer with a particular focus on object-oriented programming.
 
-- 🔭 I’m currently working on C++ projects to add to my portfolio
-- 🌱 I’m currently learning anything I can get my hands on!
+- 🔭 I’m currently working on creating a Java portfolio
+- 🌱 I’m currently learning to use Docker!
 - 👯 Always looking to collaborate
 - 📫 How to reach me: https://www.linkedin.com/in/byron-ragland-6444a21b9/
-- ⚡ Fun fact: I complete the Game of Thrones series once a year.
+- ⚡ Fun fact: I am a Game of Thrones fanatic.
 
