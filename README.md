@@ -3,8 +3,8 @@
 
 Passionate software engineer with a particular focus on object-oriented programming.
 
-- 🔭 I’m currently working on creating a Java portfolio
-- 🌱 I’m currently learning to use Docker!
+- 🔭 I’m currently working on some personal Java projects
+- 🌱 I’m currently learning REST API's!
 - 👯 Always looking to collaborate
 - 📫 How to reach me: https://www.linkedin.com/in/byron-ragland-6444a21b9/
 - ⚡ Fun fact: I am a Game of Thrones fanatic.
