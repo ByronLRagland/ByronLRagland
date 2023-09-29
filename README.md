@@ -3,8 +3,6 @@
 
 Passionate full-stack software engineer with a particular interest in back-end programming.
 
-- 🔭 I’m currently working on adding features to a scheduling app I created.
-- 🌱 I’m currently learning more about Spring Security!
 - 👯 Always looking to collaborate
 - 📫 How to reach me: https://www.linkedin.com/in/byron-ragland-6444a21b9/
 - ⚡ Fun fact: I am a Game of Thrones fanatic.
